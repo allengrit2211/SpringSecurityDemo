@@ -1,0 +1,2 @@
+1.本例子为Spring Security 一个简单例子
+2.可以快速建立SpringMVC与Spring Security
